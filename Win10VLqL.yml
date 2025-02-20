@@ -7,6 +7,7 @@ services:
       USERNAME: "Zuzzyyuu"
       PASSWORD: "VlqL123"
       RAM_SIZE: "32G"
+      ARGUMENTS: "--disable-memory-check"
       CPU_CORES: "16"
       DISK_SIZE: "750G"
     devices:
